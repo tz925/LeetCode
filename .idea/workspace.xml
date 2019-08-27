@@ -1,14 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="988acfc8-3c44-4663-ba61-e118c1fbd5e2" name="Default Changelist" comment="" />
+    <list default="true" id="988acfc8-3c44-4663-ba61-e118c1fbd5e2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/Thomaszhou/sample/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/Thomaszhou/sample/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Thomaszhou/sample/FindDisappearedNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/FindDisappearedNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Thomaszhou/sample/InvertBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/InvertBinaryTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Thomaszhou/sample/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/ListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Thomaszhou/sample/MajorityElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/MajorityElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Thomaszhou/sample/MaxTreeDepth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/MaxTreeDepth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Thomaszhou/sample/MergeBinaryTrees.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/MergeBinaryTrees.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Thomaszhou/sample/MoveZeros.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/MoveZeros.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Thomaszhou/sample/ReverseLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/ReverseLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Thomaszhou/sample/SingleNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/SingleNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Thomaszhou/sample/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/TreeNode.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1PoFq2mykItZz4AwsKhy09FD3zr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -50,5 +77,16 @@
       <updated>1566532729166</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
