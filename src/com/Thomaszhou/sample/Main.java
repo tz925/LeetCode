@@ -7,7 +7,10 @@ public class Main {
 
     public static void main(String[] args) {
 	// write your code here
-        int[] nums = new int[]{4,3,2,7,8,2,3,1};
-        System.out.println(FindDisappearedNumbers.findDisappearedNumbers(nums));
+        String s = "A man, a plan, a canal: Panama";
+        s = s.replaceAll("[^\\w]", "");
+        System.out.println(s);
+        s = s.replaceAll("/s","");
+        System.out.println(s);
     }
 }
