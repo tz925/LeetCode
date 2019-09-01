@@ -37,6 +37,12 @@ public class MaxTreeDepth {
         else{
             return  1 + Math.max(maxDepth(root.left), maxDepth(root.right));
         }
+
+        //New way if we could have two parameter.
+//        public int maxDepth(TreeNode root,int depth){
+//            if(root == null) return depth;
+//            return Math.max(maxDepth(root.left, depth+1), maxDepth(root.right, depth+1))
+//        }
     }
 
 }
