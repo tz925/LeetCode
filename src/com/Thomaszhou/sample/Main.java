@@ -24,6 +24,6 @@ public class Main {
                 System.out.println(j);
             }
         }
-
+        System.out.println("45: " +  5.0/3);
     }
 }
