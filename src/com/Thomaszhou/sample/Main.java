@@ -25,5 +25,17 @@ public class Main {
             }
         }
         System.out.println("45: " +  5.0/3);
+
+        CountAndSay cas = new CountAndSay();
+        System.out.println(cas.countAndSay(1));
+        System.out.println(cas.countAndSay(2));
+        System.out.println(cas.countAndSay(3));
+        System.out.println(cas.countAndSay(4));
+        System.out.println(cas.countAndSay(5));
+        System.out.println(cas.countAndSay(6));
+        System.out.println(cas.countAndSay(7));
+        System.out.println(cas.countAndSay(8));
+        System.out.println(cas.countAndSay(9));
+        System.out.println(cas.countAndSay(10));
     }
 }
