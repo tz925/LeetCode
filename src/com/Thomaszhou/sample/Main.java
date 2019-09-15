@@ -6,7 +6,7 @@ import java.util.stream.Collectors;
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
+        // write your code here
 //        String s = "A man, a plan, a canal: Panama";
 //        s = s.replaceAll("[^\\w]", "");
 //        System.out.println(s);
@@ -30,5 +30,8 @@ public class Main {
         int[] input = new int[1];
         input[0] = 9;
         ps.plusOne(input);
+
+
+        "ABC".charAt(3);
     }
 }
