@@ -32,6 +32,6 @@ public class Main {
         ps.plusOne(input);
 
 
-        "ABC".charAt(3);
+        System.out.println("ABC".compareTo("ABC"));
     }
 }
