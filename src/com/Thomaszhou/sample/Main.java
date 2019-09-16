@@ -33,5 +33,8 @@ public class Main {
 
 
         System.out.println("ABC".compareTo("ABC"));
+        CountPrime cp = new CountPrime();
+        System.out.println(cp.countPrimes(10));
+
     }
 }
