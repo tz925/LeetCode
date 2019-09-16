@@ -22,7 +22,7 @@ public class CountPrime {
 //        return true;
 //    }
 
-    // Sieve of Eratosthenes 
+    // Sieve of Eratosthenes
     public int countPrimes(int n){
         boolean[] isPrime = new boolean[n];
         for (int i = 2; i < n; i++) {
