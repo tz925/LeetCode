@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="988acfc8-3c44-4663-ba61-e118c1fbd5e2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/Subsets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/KthSmallestElementInABST.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
