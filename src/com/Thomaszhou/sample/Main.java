@@ -26,17 +26,8 @@ public class Main {
 //        }
 //        System.out.println("45: " +  5.0/3);
 
-        PlusOne ps = new PlusOne();
-        int[] input = new int[1];
-        input[0] = 9;
-        ps.plusOne(input);
-
-
-        System.out.println("ABC".compareTo("ABC"));
-        CountPrime cp = new CountPrime();
-        System.out.println(cp.countPrimes(10));
-        IotumApplicationQuestion iotum = new IotumApplicationQuestion();
-        iotum.question1();
+        UniquePaths up = new UniquePaths();
+        System.out.println(up.uniquePaths(4,7));
 
     }
 }
