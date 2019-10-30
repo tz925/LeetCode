@@ -33,7 +33,7 @@ public class UniquePaths {
 //        backTracking(m-1, n-1); //because 2x2 grid we can only move down and right once.
 //        return result;
 
-        //Math
+        //DP
         int[][] grid = new int[m][n];
         for(int i = 0; i<m; i++){
             for(int j = 0; j<n; j++){
