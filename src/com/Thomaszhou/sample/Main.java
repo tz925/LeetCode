@@ -25,9 +25,12 @@ public class Main {
 //            }
 //        }
 //        System.out.println("45: " +  5.0/3);
+//
+//        UniquePaths up = new UniquePaths();
+//        System.out.println(up.uniquePaths(4,7));
 
-        UniquePaths up = new UniquePaths();
-        System.out.println(up.uniquePaths(4,7));
-
+        Search2DMatrixII sm = new Search2DMatrixII();
+        int[][] matrix = new int[][]{{1,4,7,11,15},{2,5,8,12,19},{3,6,9,16,22},{10,13,14,17,24},{18,21,23,26,30}};
+        System.out.println(sm.searchMatrix(matrix, 20));
     }
 }
