@@ -24,7 +24,7 @@ public class MergeIntervals {
         if (intervals.length == 0) return result;
 
         //sorting
-        intervals = Arrays.sort(intervals, new IntervalComparator());
+        Arrays.sort(intervals, (a, b) -> (a[0] - b[0]));
 
         int left = intervals[0][0];
         int right = intervals[0][1];
@@ -46,13 +46,6 @@ public class MergeIntervals {
         result = Arrays.copyOfRange(result, 0, resultIndex);
 
         return result;
-    }
-
-    private class IntervalComparator implements Comparator<int[]> {
-        @Override
-        public int compare(Interval a, Interval b) {
-            return a.start < b.start ? -1 : a.start == b.start ? 0 : 1;
-        }
     }
 
 
