@@ -1,7 +1,6 @@
 package com.Thomaszhou.sample;
 
-import java.util.*;
-import java.util.stream.Collectors;
+import com.Thomaszhou.sample.DynamicProgramming.WordSearch;
 
 public class Main {
 
