@@ -1,5 +1,7 @@
 package com.Thomaszhou.sample;
 
+import com.Thomaszhou.sample.TreeNode;
+
 public class BinaryTreeDiameter {
     int diameter = 0;
     public int diameterOfBinaryTree(TreeNode root) {
