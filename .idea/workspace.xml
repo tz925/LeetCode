@@ -2,57 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="988acfc8-3c44-4663-ba61-e118c1fbd5e2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/ArrayAndStrings/ContainsDuplicates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/ArrayAndStrings/RotateArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/Math/RomanToInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/ArrayAndStrings/BuySellStock2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/ArrayAndStrings/FirstUniqueCharacterInString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/ArrayAndStrings/IntersectionOfTwoArray2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/ArrayAndStrings/ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/ArrayAndStrings/ValidAnagram.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Thomaszhou/sample/BinaryTreeDiameter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/TreesAndGraphs/BinaryTreeDiameter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Thomaszhou/sample/BinaryTreeInOrderTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/TreesAndGraphs/BinaryTreeInOrderTraversal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Thomaszhou/sample/BinaryTreeLevelOrderTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/TreesAndGraphs/BinaryTreeLevelOrderTraversal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Thomaszhou/sample/BinaryTreeZigZagTraverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/TreesAndGraphs/BinaryTreeZigZagTraverse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Thomaszhou/sample/ClimbStairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/DynamicProgramming/ClimbStairs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Thomaszhou/sample/ConvertBSTToGreaterTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/TreesAndGraphs/ConvertBSTToGreaterTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Thomaszhou/sample/CountAndSay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/ArrayAndStrings/CountAndSay.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Thomaszhou/sample/CountBits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/Math/CountBits.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Thomaszhou/sample/CountPrime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/Math/CountPrime.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Thomaszhou/sample/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/Math/Fibonacci.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Thomaszhou/sample/FourSumII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/Math/FourSumII.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Thomaszhou/sample/HouseRobber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/DynamicProgramming/HouseRobber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Thomaszhou/sample/InvertBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/TreesAndGraphs/InvertBinaryTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Thomaszhou/sample/JumpGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/DynamicProgramming/JumpGame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Thomaszhou/sample/KthSmallestElementInABST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/TreesAndGraphs/KthSmallestElementInABST.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Thomaszhou/sample/LinkedListCycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/LinkedLIst/LinkedListCycle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Thomaszhou/sample/LinkedListCycleII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/LinkedLIst/LinkedListCycleII.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Thomaszhou/sample/LinkedListIntersection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/LinkedLIst/LinkedListIntersection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Thomaszhou/sample/LinkedListPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/LinkedLIst/LinkedListPalindrome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Thomaszhou/sample/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/LinkedLIst/ListNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Thomaszhou/sample/LongestCommonPrefix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/ArrayAndStrings/LongestCommonPrefix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Thomaszhou/sample/LowestCommonAncestorBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/TreesAndGraphs/LowestCommonAncestorBinaryTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Thomaszhou/sample/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Thomaszhou/sample/MaxSubarray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/DynamicProgramming/MaxSubarray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Thomaszhou/sample/MaxTreeDepth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/TreesAndGraphs/MaxTreeDepth.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Thomaszhou/sample/MergeBinaryTrees.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/TreesAndGraphs/MergeBinaryTrees.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Thomaszhou/sample/MergeSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/SortingAndSearching/MergeSortedArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Thomaszhou/sample/MoveZeros.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/ArrayAndStrings/MoveZeros.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Thomaszhou/sample/OddEvenLinkedLIst.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/LinkedLIst/OddEvenLinkedLIst.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Thomaszhou/sample/PathSumIII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/TreesAndGraphs/PathSumIII.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Thomaszhou/sample/PlusOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/Math/PlusOne.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Thomaszhou/sample/PowerOfThree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/Math/PowerOfThree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Thomaszhou/sample/RemoveDuplicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/ArrayAndStrings/RemoveDuplicates.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Thomaszhou/sample/ReverseInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/ArrayAndStrings/ReverseInteger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Thomaszhou/sample/ReverseLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/LinkedLIst/ReverseLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Thomaszhou/sample/RotateImage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/ArrayAndStrings/RotateImage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Thomaszhou/sample/Search2DMatrixII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/ArrayAndStrings/Search2DMatrixII.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Thomaszhou/sample/ShuffleAnArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/Design/ShuffleAnArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Thomaszhou/sample/StrStr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/ArrayAndStrings/StrStr.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Thomaszhou/sample/SymmetricTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/TreesAndGraphs/SymmetricTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Thomaszhou/sample/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/TreesAndGraphs/TreeNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Thomaszhou/sample/TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/ArrayAndStrings/TwoSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Thomaszhou/sample/UniquePaths.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/DynamicProgramming/UniquePaths.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Thomaszhou/sample/ValidParentheses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/Others/ValidParentheses.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Thomaszhou/sample/ValidSudoku.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/ArrayAndStrings/ValidSudoku.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Thomaszhou/sample/WordSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/DynamicProgramming/WordSearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Thomaszhou/sample/mergeTwoSortedLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/LinkedLIst/mergeTwoSortedLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Thomaszhou/sample/SingleNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/ArrayAndStrings/SingleNumber.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />

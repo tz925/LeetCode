@@ -1,4 +1,4 @@
-package com.Thomaszhou.sample;
+package com.Thomaszhou.sample.ArrayAndStrings;
 
 import java.util.HashSet;
 import java.util.Iterator;
@@ -23,6 +23,6 @@ public class SingleNumber {
         while(iter.hasNext()){
             a = Integer.sum(a, (Integer) iter.next());
         }
-        return b - a*2;
+        return a*2 - b;
     }
 }
