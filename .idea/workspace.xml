@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="988acfc8-3c44-4663-ba61-e118c1fbd5e2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/ArrayAndStrings/BuySellStock2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/ArrayAndStrings/FirstUniqueCharacterInString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/ArrayAndStrings/IntersectionOfTwoArray2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/ArrayAndStrings/ReverseString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/ArrayAndStrings/ValidAnagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/LinkedLIst/DeleteNodeLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/LinkedLIst/RemoveNthNodeFromEndOfLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/TreesAndGraphs/ValidateBST.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Thomaszhou/sample/SingleNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/ArrayAndStrings/SingleNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Thomaszhou/sample/Math/RomanToInteger.java" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -98,16 +96,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/Thomaszhou/sample/Math/RomanToInteger.java</url>
-          <line>21</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
