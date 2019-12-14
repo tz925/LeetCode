@@ -2,58 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="988acfc8-3c44-4663-ba61-e118c1fbd5e2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/DynamicProgramming/BuySellStock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/SortingAndSearching/FirstBadVersion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/TreesAndGraphs/ConvertSortedArrayToBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/Design/MinStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/Others/HammingDistance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/Others/MissingNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/Others/NumberOf1Bits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/Others/PascalTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/Others/ReverseBits.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/Thomaszhou/sample/BinaryTreeDiameter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/Thomaszhou/sample/BinaryTreeInOrderTraversal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/Thomaszhou/sample/BinaryTreeLevelOrderTraversal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/Thomaszhou/sample/BinaryTreeZigZagTraverse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/Thomaszhou/sample/ClimbStairs.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/Thomaszhou/sample/ConvertBSTToGreaterTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/Thomaszhou/sample/CountAndSay.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/Thomaszhou/sample/CountBits.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/Thomaszhou/sample/CountPrime.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/Thomaszhou/sample/Fibonacci.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/Thomaszhou/sample/FourSumII.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/Thomaszhou/sample/HouseRobber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/Thomaszhou/sample/InvertBinaryTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/Thomaszhou/sample/KthSmallestElementInABST.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/Thomaszhou/sample/LinkedListCycle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/Thomaszhou/sample/LinkedListCycleII.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/Thomaszhou/sample/LinkedListIntersection.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/Thomaszhou/sample/LinkedListPalindrome.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/Thomaszhou/sample/ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/Thomaszhou/sample/LongestCommonPrefix.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/Thomaszhou/sample/LowestCommonAncestorBinaryTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/Thomaszhou/sample/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/Thomaszhou/sample/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/Thomaszhou/sample/MaxSubarray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/Thomaszhou/sample/MaxTreeDepth.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/Thomaszhou/sample/MergeBinaryTrees.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/Thomaszhou/sample/MergeSortedArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/Thomaszhou/sample/MoveZeros.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/Thomaszhou/sample/OddEvenLinkedLIst.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/Thomaszhou/sample/PathSumIII.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/Thomaszhou/sample/PlusOne.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/Thomaszhou/sample/PowerOfThree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/Thomaszhou/sample/RemoveDuplicates.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/Thomaszhou/sample/ReverseInteger.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/Thomaszhou/sample/ReverseLinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/Thomaszhou/sample/RotateImage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/Thomaszhou/sample/Search2DMatrixII.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/Thomaszhou/sample/ShuffleAnArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/Thomaszhou/sample/SingleNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/Thomaszhou/sample/StrStr.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/Thomaszhou/sample/SymmtricTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/Thomaszhou/sample/TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/Thomaszhou/sample/TwoSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/Thomaszhou/sample/UniquePaths.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/Thomaszhou/sample/ValidParentheses.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/Thomaszhou/sample/ValidSudoku.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/Thomaszhou/sample/WordSearch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/Thomaszhou/sample/mergeTwoSortedLinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Thomaszhou/sample/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/Main.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
