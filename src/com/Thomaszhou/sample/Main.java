@@ -1,6 +1,8 @@
 package com.Thomaszhou.sample;
 
 import com.Thomaszhou.sample.DynamicProgramming.WordSearch;
+import com.Thomaszhou.sample.TreesAndGraphs.ConvertSortedArrayToBST;
+import com.Thomaszhou.sample.TreesAndGraphs.TreeNode;
 
 public class Main {
 
@@ -32,8 +34,11 @@ public class Main {
 //        int[][] matrix = new int[][]{{1,4,7,11,15},{2,5,8,12,19},{3,6,9,16,22},{10,13,14,17,24},{18,21,23,26,30}};
 //        System.out.println(sm.searchMatrix(matrix, 20));
 
-        char[][] board = new char[][]{{'A','B','C','E'},{'S','F','C','S'},{'A','D','E','E'}};
-        WordSearch ws = new WordSearch();
-        System.out.println(ws.exist(board, "ABCCED"));
+//        char[][] board = new char[][]{{'A','B','C','E'},{'S','F','C','S'},{'A','D','E','E'}};
+//        WordSearch ws = new WordSearch();
+//        System.out.println(ws.exist(board, "ABCCED"));
+        ConvertSortedArrayToBST cs = new ConvertSortedArrayToBST();
+        TreeNode t = cs.sortedArrayToBST(new int[]{-10,-3,0,5,9});
+        System.out.println(t.toString());
     }
 }
