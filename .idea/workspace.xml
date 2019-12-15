@@ -2,13 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="988acfc8-3c44-4663-ba61-e118c1fbd5e2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/Design/MinStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/Others/HammingDistance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/Others/MissingNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/Others/NumberOf1Bits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/Others/PascalTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/Others/ReverseBits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/ArrayAndStrings/IncreasingTriplet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/ArrayAndStrings/LongestPalindromicSubstring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/ArrayAndStrings/LongestSubstringWithoutRepeatingChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/ArrayAndStrings/ThreeSum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Thomaszhou/sample/ArrayAndStrings/Search2DMatrixII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/SortingAndSearching/Search2DMatrixII.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Thomaszhou/sample/FindPeakElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/SortingAndSearching/FindPeakElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Thomaszhou/sample/GroupAnagrams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/ArrayAndStrings/GroupAnagrams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Thomaszhou/sample/KthLargestElementInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/SortingAndSearching/KthLargestElementInArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Thomaszhou/sample/LongestIncreasingSubsequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/DynamicProgramming/LongestIncreasingSubsequence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Thomaszhou/sample/MajorityElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/Others/MajorityElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Thomaszhou/sample/MergeIntervals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/SortingAndSearching/MergeIntervals.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Thomaszhou/sample/NumberOfIslands.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/TreesAndGraphs/NumberOfIslands.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Thomaszhou/sample/PopulatingNextRightPointersInNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/TreesAndGraphs/PopulatingNextRightPointersInNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Thomaszhou/sample/SetMatrixZeroes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/ArrayAndStrings/SetMatrixZeroes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Thomaszhou/sample/SortColor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/SortingAndSearching/SortColor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Thomaszhou/sample/TaskScheduler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/Others/TaskScheduler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Thomaszhou/sample/TopKFrequentElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/SortingAndSearching/TopKFrequentElements.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />

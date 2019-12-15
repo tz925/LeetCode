@@ -1,4 +1,4 @@
-package com.Thomaszhou.sample;
+package com.Thomaszhou.sample.ArrayAndStrings;
 /*
 
  */

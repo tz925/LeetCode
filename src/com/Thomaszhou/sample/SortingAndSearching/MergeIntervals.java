@@ -1,4 +1,4 @@
-package com.Thomaszhou.sample;
+package com.Thomaszhou.sample.SortingAndSearching;
 
 import java.util.Arrays;
 import java.util.Comparator;

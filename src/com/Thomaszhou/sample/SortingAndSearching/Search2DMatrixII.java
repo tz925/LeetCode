@@ -1,4 +1,4 @@
-package com.Thomaszhou.sample.ArrayAndStrings;
+package com.Thomaszhou.sample.SortingAndSearching;
 
 import java.util.Arrays;
 
