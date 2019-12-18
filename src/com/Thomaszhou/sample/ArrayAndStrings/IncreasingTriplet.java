@@ -19,10 +19,13 @@ Output: false
  */
 public class IncreasingTriplet {
     public boolean increasingTriplet(int[] nums) {
-        // we can sort the array then check, but will be nlogn.
-        for (int i = 0; i < ; i++) {
-            
+        int big = Integer.MAX_VALUE;
+        int small = Integer.MAX_VALUE;
+        for (int n: nums) {
+            if (n <= small) small = n;
+            else if (n<= big) big = n;
+            else return true;
         }
-        
+        return false;
     }
 }

@@ -2,24 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="988acfc8-3c44-4663-ba61-e118c1fbd5e2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/ArrayAndStrings/IncreasingTriplet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/ArrayAndStrings/LongestPalindromicSubstring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/ArrayAndStrings/LongestSubstringWithoutRepeatingChar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/ArrayAndStrings/ThreeSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/LinkedLIst/AddTwoNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/SortingAndSearching/SearchForARange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/TreesAndGraphs/ConstructBinaryTreeFromPreorderInorder.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Thomaszhou/sample/ArrayAndStrings/Search2DMatrixII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/SortingAndSearching/Search2DMatrixII.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Thomaszhou/sample/FindPeakElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/SortingAndSearching/FindPeakElement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Thomaszhou/sample/GroupAnagrams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/ArrayAndStrings/GroupAnagrams.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Thomaszhou/sample/KthLargestElementInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/SortingAndSearching/KthLargestElementInArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Thomaszhou/sample/LongestIncreasingSubsequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/DynamicProgramming/LongestIncreasingSubsequence.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Thomaszhou/sample/MajorityElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/Others/MajorityElement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Thomaszhou/sample/MergeIntervals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/SortingAndSearching/MergeIntervals.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Thomaszhou/sample/NumberOfIslands.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/TreesAndGraphs/NumberOfIslands.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Thomaszhou/sample/PopulatingNextRightPointersInNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/TreesAndGraphs/PopulatingNextRightPointersInNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Thomaszhou/sample/SetMatrixZeroes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/ArrayAndStrings/SetMatrixZeroes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Thomaszhou/sample/SortColor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/SortingAndSearching/SortColor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Thomaszhou/sample/TaskScheduler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/Others/TaskScheduler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Thomaszhou/sample/TopKFrequentElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/SortingAndSearching/TopKFrequentElements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/Thomaszhou/sample/ArrayAndStrings/Search2DMatrixII.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/Thomaszhou/sample/FindPeakElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/Thomaszhou/sample/GroupAnagrams.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/Thomaszhou/sample/KthLargestElementInArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/Thomaszhou/sample/LongestIncreasingSubsequence.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/Thomaszhou/sample/MajorityElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/Thomaszhou/sample/MergeIntervals.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/Thomaszhou/sample/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/Thomaszhou/sample/NumberOfIslands.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/Thomaszhou/sample/PopulatingNextRightPointersInNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/Thomaszhou/sample/SetMatrixZeroes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/Thomaszhou/sample/SortColor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/Thomaszhou/sample/TaskScheduler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/Thomaszhou/sample/TopKFrequentElements.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/Thomaszhou/sample/TreesAndGraphs/ConvertSortedArrayToBST.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/Thomaszhou/sample/TreesAndGraphs/ConvertSortedArrayToBST.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Thomaszhou/sample/ArrayAndStrings/IncreasingTriplet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/ArrayAndStrings/IncreasingTriplet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Thomaszhou/sample/DynamicProgramming/WordSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/BackTracking/WordSearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Thomaszhou/sample/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/Main.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
