@@ -1,5 +1,6 @@
 package com.Thomaszhou.sample;
 
+import com.Thomaszhou.sample.Math.Pow;
 import com.Thomaszhou.sample.TreesAndGraphs.ConvertSortedArrayToBST;
 import com.Thomaszhou.sample.TreesAndGraphs.TreeNode;
 
@@ -36,8 +37,13 @@ public class Main {
 //        char[][] board = new char[][]{{'A','B','C','E'},{'S','F','C','S'},{'A','D','E','E'}};
 //        WordSearch ws = new WordSearch();
 //        System.out.println(ws.exist(board, "ABCCED"));
-        ConvertSortedArrayToBST cs = new ConvertSortedArrayToBST();
-        TreeNode t = cs.sortedArrayToBST(new int[]{-10,-3,0,5,9});
-        System.out.println(t.toString());
+//        ConvertSortedArrayToBST cs = new ConvertSortedArrayToBST();
+//        TreeNode t = cs.sortedArrayToBST(new int[]{-10,-3,0,5,9});
+//        System.out.println(t.toString());
+
+//        System.out.println('B'-'A');
+        Pow p = new Pow();
+
+        System.out.println(p.myPow(2.0, -2));
     }
 }
