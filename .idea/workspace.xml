@@ -2,16 +2,60 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="988acfc8-3c44-4663-ba61-e118c1fbd5e2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/Math/ExcelSheetColumnNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/Math/Pow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/ArrayAndStrings/SpiralMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/Math/DivideTwoIntegers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/Math/FractionToRecurringDecimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/Others/EvaluateReversePolishNotation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/Thomaszhou/sample/DynamicProgramming/WordSearch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/Thomaszhou/sample/InsertDeleteGetRandomO1$RandomizedSet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/Thomaszhou/sample/InsertDeleteGetRandomO1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/Thomaszhou/sample/LinkedLIst/AddTwoNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/Thomaszhou/sample/LinkedLIst/AddTwoNumbers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/Thomaszhou/sample/ContainerWithMostWater.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/Thomaszhou/sample/CourseSchedule$Course.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/Thomaszhou/sample/CourseSchedule.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/Thomaszhou/sample/CourseSchedule2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/Thomaszhou/sample/DailyTemperature.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/Thomaszhou/sample/FIndDuplicateNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/Thomaszhou/sample/FindDisappearedNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/Thomaszhou/sample/FloodFill.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/Thomaszhou/sample/GameOfLife.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/Thomaszhou/sample/GenerateParentheses.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/Thomaszhou/sample/HammingWeight.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/Thomaszhou/sample/KthSmallestElementInASortedMatrix.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/Thomaszhou/sample/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/Thomaszhou/sample/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/Thomaszhou/sample/Math/FourSumII.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/Thomaszhou/sample/Math/Pow.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/Thomaszhou/sample/Math/Pow.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/Thomaszhou/sample/PalindromeII.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/Thomaszhou/sample/PalindromePartitioning.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/Thomaszhou/sample/PerfectSquares.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/Thomaszhou/sample/Permutation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/Thomaszhou/sample/ProductOfArrayExceptSelf.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/Thomaszhou/sample/ShortestUnsortedContinuousSubarray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/Thomaszhou/sample/Sqrt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/Thomaszhou/sample/Subsets.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/Thomaszhou/sample/Trie.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/Thomaszhou/sample/TrieNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/Thomaszhou/sample/letterCombinations.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Thomaszhou/sample/ContainerWithMostWater.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/ArrayAndStrings/ContainerWithMostWater.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Thomaszhou/sample/CourseSchedule.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/TreesAndGraphs/CourseSchedule.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Thomaszhou/sample/CourseSchedule2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/TreesAndGraphs/CourseSchedule2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Thomaszhou/sample/DailyTemperature.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/DynamicProgramming/DailyTemperature.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Thomaszhou/sample/FIndDuplicateNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/ArrayAndStrings/FIndDuplicateNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Thomaszhou/sample/FindDisappearedNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/ArrayAndStrings/FindDisappearedNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Thomaszhou/sample/FloodFill.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/ArrayAndStrings/FloodFill.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Thomaszhou/sample/GameOfLife.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/ArrayAndStrings/GameOfLife.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Thomaszhou/sample/GenerateParentheses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/BackTracking/GenerateParentheses.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Thomaszhou/sample/HammingWeight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/Math/HammingWeight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Thomaszhou/sample/KthSmallestElementInASortedMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/SortingAndSearching/KthSmallestElementInASortedMatrix.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/Thomaszhou/sample/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Thomaszhou/sample/Sqrt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/Math/Sqrt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Thomaszhou/sample/Math/FourSumII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/ArrayAndStrings/FourSumII.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Thomaszhou/sample/PalindromeII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/ArrayAndStrings/PalindromeII.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Thomaszhou/sample/PalindromePartitioning.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/BackTracking/PalindromePartitioning.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Thomaszhou/sample/PerfectSquares.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/DynamicProgramming/PerfectSquares.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Thomaszhou/sample/Permutation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/BackTracking/Permutation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Thomaszhou/sample/ProductOfArrayExceptSelf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/ArrayAndStrings/ProductOfArrayExceptSelf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Thomaszhou/sample/ShortestUnsortedContinuousSubarray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/BackTracking/ShortestUnsortedContinuousSubarray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Thomaszhou/sample/Subsets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/BackTracking/Subsets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Thomaszhou/sample/Trie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/Design/Trie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Thomaszhou/sample/TrieNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/Design/TrieNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Thomaszhou/sample/letterCombinations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/BackTracking/letterCombinations.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />

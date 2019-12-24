@@ -1,6 +1,7 @@
 package com.Thomaszhou.sample;
 
 import com.Thomaszhou.sample.Math.Pow;
+import com.Thomaszhou.sample.Others.EvaluateReversePolishNotation;
 import com.Thomaszhou.sample.TreesAndGraphs.ConvertSortedArrayToBST;
 import com.Thomaszhou.sample.TreesAndGraphs.TreeNode;
 
@@ -42,8 +43,12 @@ public class Main {
 //        System.out.println(t.toString());
 
 //        System.out.println('B'-'A');
-        Pow p = new Pow();
+//        Pow p = new Pow();
+//
+//        System.out.println(p.myPow(2.0, -2));
 
-        System.out.println(p.myPow(2.0, -2));
+//        EvaluateReversePolishNotation ev = new EvaluateReversePolishNotation();
+//        System.out.println(ev.evalRPN(new String[]{"2","1","+","3","*"}));
+
     }
 }
