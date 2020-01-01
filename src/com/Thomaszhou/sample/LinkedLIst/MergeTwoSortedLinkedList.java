@@ -3,7 +3,7 @@ package com.Thomaszhou.sample.LinkedLIst;
 
 import com.Thomaszhou.sample.LinkedLIst.ListNode;
 
-public class mergeTwoSortedLinkedList {
+public class MergeTwoSortedLinkedList {
     public static ListNode mergeTwoLists(ListNode l1, ListNode l2) {
         ListNode head, cur, cur1, cur2;
         if(l1 == null && l2 == null){

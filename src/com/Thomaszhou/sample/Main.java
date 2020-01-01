@@ -1,5 +1,6 @@
 package com.Thomaszhou.sample;
 
+import com.Thomaszhou.sample.ArrayAndStrings.BasicCalculator2;
 import com.Thomaszhou.sample.Math.Pow;
 import com.Thomaszhou.sample.Others.EvaluateReversePolishNotation;
 import com.Thomaszhou.sample.TreesAndGraphs.ConvertSortedArrayToBST;
@@ -49,6 +50,9 @@ public class Main {
 
 //        EvaluateReversePolishNotation ev = new EvaluateReversePolishNotation();
 //        System.out.println(ev.evalRPN(new String[]{"2","1","+","3","*"}));
+
+        BasicCalculator2 bc = new BasicCalculator2();
+        bc.calculate("  1 + 2");
 
     }
 }
