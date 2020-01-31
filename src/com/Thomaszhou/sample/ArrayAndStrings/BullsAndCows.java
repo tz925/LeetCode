@@ -34,42 +34,58 @@ public class BullsAndCows {
     public String getHint(String secret, String guess) {
         int bull = 0;
         int cow = 0;
-        char[] s = secret.toCharArray();
-        char[] g = guess.toCharArray();
-        for (int i = 0; i < g.length; i++) {
-            if (s[i] == g[i]){
-                bull++;
-                s[i] = '#';
-                g[i] = '#';
+        // 10ms 2 pass
+//        char[] s = secret.toCharArray();
+//        char[] g = guess.toCharArray();
+//        for (int i = 0; i < g.length; i++) {
+//            if (s[i] == g[i]){
+//                bull++;
+//                s[i] = '#';
+//                g[i] = '#';
+//            }
+//        }
+//
+//        //剩下的数出来数量放Map， 然后有对应的就-1
+//        Map<Character, Integer> c2i = new HashMap<>();
+//        for (int i = 0; i < g.length; i++) {
+//            char c = g[i];
+//            c2i.put(c, c2i.getOrDefault(c, 0)+1);
+//        }
+//
+//        if (bull != 0) {
+//            c2i.put('#', 0);
+//        }
+//
+//        for (int i = 0; i < s.length; i++) {
+//            char c = s[i];
+//            int count = c2i.getOrDefault(c, 0);
+//            if (count > 0) {
+//                c2i.put(c, count - 1);
+//                cow++;
+//            }
+//        }
+//
+//        StringBuilder ans = new StringBuilder();
+//        ans.append(bull);
+//        ans.append('A');
+//        ans.append(cow);
+//        ans.append('B');
+//
+//        return ans.toString();
+
+        // one pass
+        int[] numbers = new int[10]; // to store occurence
+        for (int i = 0; i<secret.length(); i++) {
+            int s = Character.getNumericValue(secret.charAt(i));
+            int g = Character.getNumericValue(guess.charAt(i));
+            if (s == g) bull++;
+            else {
+                if (numbers[s] < 0) cow++;
+                if (numbers[g] > 0) cow++;
+                numbers[s] ++;
+                numbers[g] --;
             }
         }
-
-        //剩下的数出来数量放Map， 然后有对应的就-1
-        Map<Character, Integer> c2i = new HashMap<>();
-        for (int i = 0; i < g.length; i++) {
-            char c = g[i];
-            c2i.put(c, c2i.getOrDefault(c, 0)+1);
-        }
-
-        if (bull != 0) {
-            c2i.put('#', 0);
-        }
-
-        for (int i = 0; i < s.length; i++) {
-            char c = s[i];
-            int count = c2i.getOrDefault(c, 0);
-            if (count > 0) {
-                c2i.put(c, count - 1);
-                cow++;
-            }
-        }
-
-        StringBuilder ans = new StringBuilder();
-        ans.append(bull);
-        ans.append('A');
-        ans.append(cow);
-        ans.append('B');
-
-        return ans.toString();
+        return bull + "A" + cow + "B";
     }
 }

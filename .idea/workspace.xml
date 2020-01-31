@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="988acfc8-3c44-4663-ba61-e118c1fbd5e2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/ArrayAndStrings/BullsAndCows.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Thomaszhou/sample/ArrayAndStrings/BullsAndCows.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/ArrayAndStrings/BullsAndCows.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -114,7 +114,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579889539125</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Bull and cows first version">
+      <created>1580147655947</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1580147655948</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -136,6 +143,7 @@
     <MESSAGE value="remove element beats 100%" />
     <MESSAGE value="remove duplicated 2" />
     <MESSAGE value="First missing positive, because there can only be n positive integers we put them to right place, then loop thru, the first one not in place is the answer" />
-    <option name="LAST_COMMIT_MESSAGE" value="First missing positive, because there can only be n positive integers we put them to right place, then loop thru, the first one not in place is the answer" />
+    <MESSAGE value="Bull and cows first version" />
+    <option name="LAST_COMMIT_MESSAGE" value="Bull and cows first version" />
   </component>
 </project>
