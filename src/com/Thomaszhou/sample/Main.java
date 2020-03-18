@@ -54,5 +54,7 @@ public class Main {
         BasicCalculator2 bc = new BasicCalculator2();
         bc.calculate("  1 + 2");
 
+        System.out.println(1 /2 + 1);
+
     }
 }

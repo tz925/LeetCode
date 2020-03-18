@@ -54,11 +54,7 @@ public class IotumApplicationQuestion {
     }
 
     public int question2(int n){
-        int count = 0;
-        for (int i = 0; i < n; i++) {
-            if (i % 2 == 0) count++;
-        }
-        return count;
+        return n / 2 + 1;
     }
 
 
@@ -72,9 +68,11 @@ public class IotumApplicationQuestion {
      question 5:
 
      Node.js and Express, for server, Node.js and express are very ideal for small app like this, and inexpensive comparing
-     to Java Servers. (Alternative can be Python Django which is also inexpensive). Front-End I will choose React.js for
-     easiness to use and quick development speed, react is ideal for SPA. DB is not really neccessary unless we want to
-     store some account details(login, password, etc.) or chat history. I'm going to use Socket.io to create socket connections.
+     to Java Servers. Front-End I will choose React.js, react is ideal for SPA. DB is not really neccessary unless we want to
+     store some account details(login, password, etc.) or chat history. if so, MongoDB is a good choice, because of the speed,
+      and flexibility, I'm going to use Socket.io to create socket connections.
+
+     You can check out https://tz925-react-chat-client.netlify.com/ for an example I wrote before.
      */
 
 }

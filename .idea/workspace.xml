@@ -1,9 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="988acfc8-3c44-4663-ba61-e118c1fbd5e2" name="Default Changelist" comment="">
+    <list default="true" id="988acfc8-3c44-4663-ba61-e118c1fbd5e2" name="Default Changelist" comment="Bull and cows one pass second version">
+      <change afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/DynamicProgramming/MinimumSumOfSubarrayAmazon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/SortingAndSearching/TopKFrequentWordsAmazon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/TreesAndGraphs/RottingOrangesAmazon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/TreesAndGraphs/WallsAndGatesAmazon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/TreesAndGraphs/ZombieAmazon.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Thomaszhou/sample/ArrayAndStrings/BullsAndCows.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/ArrayAndStrings/BullsAndCows.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/Thomaszhou/sample/ArrayAndStrings/BasicCalculator2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/Thomaszhou/sample/ArrayAndStrings/BasicCalculator2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/Thomaszhou/sample/ArrayAndStrings/FirstMissingPositive.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/Thomaszhou/sample/ArrayAndStrings/FirstMissingPositive.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/Thomaszhou/sample/IotumApplicationQuestion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/Thomaszhou/sample/IotumApplicationQuestion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/Thomaszhou/sample/LinkedLIst/mergeTwoSortedLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/Thomaszhou/sample/LinkedLIst/mergeTwoSortedLinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/Thomaszhou/sample/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/Thomaszhou/sample/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Thomaszhou/sample/ArrayAndStrings/SlidingWindowMaximum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/ArrayAndStrings/SlidingWindowMaximum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Thomaszhou/sample/IotumApplicationQuestion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/IotumApplicationQuestion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Thomaszhou/sample/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/Main.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +63,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.ZombieAmazon">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.Thomaszhou.sample.Main" />
       <module name="LeetCode" />
@@ -62,8 +74,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MinimumSumOfSubarrayAmazon" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Thomaszhou.sample.DynamicProgramming.MinimumSumOfSubarrayAmazon" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Thomaszhou.sample.DynamicProgramming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZombieAmazon" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Thomaszhou.sample.TreesAndGraphs.ZombieAmazon" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Thomaszhou.sample.TreesAndGraphs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ZombieAmazon" />
+        <item itemvalue="Application.MinimumSumOfSubarrayAmazon" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -121,7 +161,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580147655948</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Bull and cows one pass second version">
+      <created>1580508139025</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1580508139025</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -144,6 +191,7 @@
     <MESSAGE value="remove duplicated 2" />
     <MESSAGE value="First missing positive, because there can only be n positive integers we put them to right place, then loop thru, the first one not in place is the answer" />
     <MESSAGE value="Bull and cows first version" />
-    <option name="LAST_COMMIT_MESSAGE" value="Bull and cows first version" />
+    <MESSAGE value="Bull and cows one pass second version" />
+    <option name="LAST_COMMIT_MESSAGE" value="Bull and cows one pass second version" />
   </component>
 </project>
