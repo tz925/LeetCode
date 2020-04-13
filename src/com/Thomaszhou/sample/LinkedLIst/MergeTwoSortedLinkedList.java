@@ -1,47 +1,38 @@
 package com.Thomaszhou.sample.LinkedLIst;
 
 
-import com.Thomaszhou.sample.LinkedLIst.ListNode;
-
 public class MergeTwoSortedLinkedList {
-    public static ListNode mergeTwoLists(ListNode l1, ListNode l2) {
-        ListNode head, cur, cur1, cur2;
-        if(l1 == null && l2 == null){
-            return null;
-        }else if (l1 == null){return l2;}
-        else if (l2 == null){return l1;}
-        else{
-            if(l1.val <= l2.val){
-                head = l1;
-                cur = head;
-                cur1 = l1.next;
-                cur2 = l2;
+//    public ListNode mergeTwoLists(ListNode l1, ListNode l2) {
+//        if (l1 == null) {
+//            return l2;
+//        }
+//        else if (l2 == null) {
+//            return l1;
+//        }
+//        else if (l1.val < l2.val) {
+//            l1.next = mergeTwoLists(l1.next, l2);
+//            return l1;
+//        }
+//        else {
+//            l2.next = mergeTwoLists(l1, l2.next);
+//            return l2;
+//        }
+//    }
+
+    public ListNode mergeTwoLists(ListNode l1, ListNode l2) {
+        ListNode prev = new ListNode(-1);
+        ListNode prevHead = prev;
+        while(l1 != null && l2 != null) {
+            if (l1.val <= l2.val) {
+                prev.next = l1;
+                l1 = l1.next;
             }else{
-                head = l2;
-                cur = head;
-                cur1 = l1;
-                cur2 = l2.next;
+                prev.next = l2;
+                l2 = l2.next;
             }
+            prev = prev.next;
         }
-        while (cur1 != null || cur2 != null){
-            if(cur1 == null){
-                cur.next = cur2;
-                break;
-            }else if(cur2 == null){
-                cur.next = cur1;
-                break;
-            }else{
-                if(cur1.val <= cur2.val){
-                    cur.next = cur1;
-                    cur1 = cur1.next;
-                    cur = cur.next;
-                }else{
-                    cur.next = cur2;
-                    cur2 = cur2.next;
-                    cur = cur.next;
-                }
-            }
-        }
-        return head;
+        prev.next = (l1 != null) ? l1 : l2;
+        return prevHead.next;
     }
 }
