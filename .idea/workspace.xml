@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="988acfc8-3c44-4663-ba61-e118c1fbd5e2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/ArrayAndStrings/LongestSubstringWithAtLeastKRepeatingChar.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Thomaszhou/sample/LinkedLIst/MergeTwoSortedLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/LinkedLIst/MergeTwoSortedLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Thomaszhou/sample/LinkedLIst/SortList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/LinkedLIst/SortList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Thomaszhou/sample/TreesAndGraphs/FindCelebrity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/TreesAndGraphs/FindCelebrity.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -226,7 +228,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587492819116</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="longest substring with at least k repeating element. recursive solution. count, then use element that appear less than K time to split string, recursive do it.">
+      <created>1587503539074</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1587503539074</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -257,6 +266,7 @@
     <MESSAGE value="meeting room" />
     <MESSAGE value="meeting room 2" />
     <MESSAGE value="find celebrity" />
-    <option name="LAST_COMMIT_MESSAGE" value="find celebrity" />
+    <MESSAGE value="longest substring with at least k repeating element. recursive solution. count, then use element that appear less than K time to split string, recursive do it." />
+    <option name="LAST_COMMIT_MESSAGE" value="longest substring with at least k repeating element. recursive solution. count, then use element that appear less than K time to split string, recursive do it." />
   </component>
 </project>

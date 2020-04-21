@@ -14,9 +14,8 @@ You are given a helper function bool knows(a, b) which tells you whether A knows
 /* The knows API is defined in the parent class Relation.
       boolean knows(int a, int b); */
 
-import javax.management.relation.Relation;
 
-public class FindCelebrity extends Relation {
+public class FindCelebrity {
 
     private int numberOfPeople;
 

@@ -19,7 +19,7 @@ public class MergeTwoSortedLinkedList {
 //        }
 //    }
 
-    public ListNode mergeTwoLists(ListNode l1, ListNode l2) {
+    public static ListNode mergeTwoLists(ListNode l1, ListNode l2) {
         ListNode prev = new ListNode(-1);
         ListNode prevHead = prev;
         while(l1 != null && l2 != null) {
