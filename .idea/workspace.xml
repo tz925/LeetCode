@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="988acfc8-3c44-4663-ba61-e118c1fbd5e2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/TreesAndGraphs/FindCelebrity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/ArrayAndStrings/LongestSubstringWithAtLeastKRepeatingChar.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -219,7 +219,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587240063212</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="find celebrity">
+      <created>1587492819115</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1587492819116</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -249,6 +256,7 @@
     <MESSAGE value="Flatten Nested List Iterator" />
     <MESSAGE value="meeting room" />
     <MESSAGE value="meeting room 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="meeting room 2" />
+    <MESSAGE value="find celebrity" />
+    <option name="LAST_COMMIT_MESSAGE" value="find celebrity" />
   </component>
 </project>
