@@ -1,8 +1,7 @@
 package com.Thomaszhou.sample.Others;
 
-import java.util.Arrays;
-import java.util.HashSet;
-import java.util.Set;
+import java.util.*;
+import java.util.function.BiFunction;
 
 /*
 Evaluate the value of an arithmetic expression in Reverse Polish Notation.
@@ -37,42 +36,31 @@ Explanation:
 = 22
  */
 public class EvaluateReversePolishNotation {
-    static final String[] dg = new String[] {"1","2","3","4","5","6","7","8","9","0"};
-    static final Set<String> dgset = new HashSet<>(Arrays.asList(dg));
+    private static final Map<String, BiFunction<Integer, Integer, Integer>> OPERATIONS = new HashMap<>();
+
+    // Ensure this only gets done once for ALL test cases.
+    static {
+        OPERATIONS.put("+", (a, b) -> a + b);
+        OPERATIONS.put("-", (a, b) -> a - b);
+        OPERATIONS.put("*", (a, b) -> a * b);
+        OPERATIONS.put("/", (a, b) -> a / b);
+    }
 
     public int evalRPN(String[] tokens) {
-        int result = 0;
+        Stack<Integer> stack = new Stack<>();
+
         for (int i = 0; i < tokens.length; i++) {
-            String cur = tokens[i];
-            if (cur == "+" || cur == "-" || cur == "*" || cur == "/"){
-                result = helper(tokens, i);
+            String c = tokens[i];
+            if (OPERATIONS.keySet().contains(c)){
+                Integer operant1 = stack.pop();
+                Integer operant2 = stack.pop();
+                stack.push(OPERATIONS.get(c).apply(operant2, operant1)); // the order of operand is critical.
+            }else{
+                stack.push(Integer.parseInt(c));
             }
         }
-        return result;
+
+        return stack.pop();
     }
 
-    public int helper(String[] tokens, int opInd) {
-
-        int first = getPrevNum(tokens, opInd - 1);
-        int second = getPrevNum(tokens, opInd - 2);
-        int result = 0;
-        String operator = tokens[opInd];
-        if (operator == "+") result = first + second;
-        else if (operator == "-") result = first - second;
-        else if (operator == "*") result = first * second;
-        else if (operator == "/") result = first / second;
-
-        tokens[opInd] = Integer.toString(result);
-        return result;
-
-    }
-
-    public int getPrevNum(String[] tokens, int start) {
-        while(!dgset.contains(tokens[start])){
-            start--;
-        }
-        String temp = tokens[start];
-        tokens[start] = "#";
-        return Integer.parseInt(temp);
-    }
 }
