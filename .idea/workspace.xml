@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="988acfc8-3c44-4663-ba61-e118c1fbd5e2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/LinkedLIst/CopyListWithRandomPointer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Thomaszhou/sample/Others/EvaluateReversePolishNotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/Others/EvaluateReversePolishNotation.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -247,7 +247,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587583073234</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="EvaluateReversePolishNotation">
+      <created>1587677614838</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1587677614838</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -281,6 +288,7 @@
     <MESSAGE value="longest substring with at least k repeating element. recursive solution. count, then use element that appear less than K time to split string, recursive do it." />
     <MESSAGE value="sort linked List" />
     <MESSAGE value="word break" />
-    <option name="LAST_COMMIT_MESSAGE" value="word break" />
+    <MESSAGE value="EvaluateReversePolishNotation" />
+    <option name="LAST_COMMIT_MESSAGE" value="EvaluateReversePolishNotation" />
   </component>
 </project>
