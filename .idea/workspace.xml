@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="988acfc8-3c44-4663-ba61-e118c1fbd5e2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/ArrayAndStrings/MaxProductSubarry.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="988acfc8-3c44-4663-ba61-e118c1fbd5e2" name="Default Changelist" comment="max product subarry">
+      <change afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/Design/LRUCache.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -261,7 +260,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587695871353</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="max product subarry">
+      <created>1587743893154</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1587743893154</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -297,6 +303,7 @@
     <MESSAGE value="word break" />
     <MESSAGE value="EvaluateReversePolishNotation" />
     <MESSAGE value=" Copy List with Random Pointer" />
-    <option name="LAST_COMMIT_MESSAGE" value=" Copy List with Random Pointer" />
+    <MESSAGE value="max product subarry" />
+    <option name="LAST_COMMIT_MESSAGE" value="max product subarry" />
   </component>
 </project>
