@@ -7,7 +7,7 @@ import java.util.List;
 public class KSum {
     private List<List<Integer>> kSum(int[] nums, int start, int k, int target){
         int len = nums.length;
-        List<List<Integer>> result = new ArrayList<List<Integer>>();
+        List<List<Integer>> result = new ArrayList<>();
         if(k == 2){
             int l = start, r = len - 1;
             while(l < r){

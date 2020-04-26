@@ -35,6 +35,9 @@ public class Prodigy {
         map.put('T', 7);
         map.put('b', 5);
         map.put('D', 5);
+        int n = 5;
+        long N = n;
+        System.out.println(N / 2);
     }
 
     public static void main(String[] args) {
