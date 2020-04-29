@@ -37,7 +37,8 @@ public class Prodigy {
         map.put('D', 5);
         int n = 5;
         long N = n;
-        System.out.println(N / 2);
+
+        System.out.println(Integer.parseInt("326".substring(1,3)));
     }
 
     public static void main(String[] args) {

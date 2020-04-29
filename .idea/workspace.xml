@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="988acfc8-3c44-4663-ba61-e118c1fbd5e2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/DynamicProgramming/DecodeWays.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Thomaszhou/sample/Prodigy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/Prodigy.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -281,7 +283,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587930417807</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Surrounded Regions">
+      <created>1588120087935</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1588120087935</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -319,6 +328,7 @@
     <MESSAGE value=" Copy List with Random Pointer" />
     <MESSAGE value="max product subarry" />
     <MESSAGE value="word ladder" />
-    <option name="LAST_COMMIT_MESSAGE" value="word ladder" />
+    <MESSAGE value="Surrounded Regions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Surrounded Regions" />
   </component>
 </project>
