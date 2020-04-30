@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="988acfc8-3c44-4663-ba61-e118c1fbd5e2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/Design/SerializeAndDeserializeTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/ArrayAndStrings/LongestSubstringWIthAtMostTwoDistinctCharacters.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Thomaszhou/sample/TreesAndGraphs/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/TreesAndGraphs/TreeNode.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -311,7 +310,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588216645811</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Serialize Deserialize Binary Tree">
+      <created>1588262850604</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1588262850604</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -328,7 +334,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="sort array by parity" />
     <MESSAGE value="Unique number of occurence" />
     <MESSAGE value="remove element beats 100%" />
     <MESSAGE value="remove duplicated 2" />
@@ -353,6 +358,7 @@
     <MESSAGE value="Decode ways" />
     <MESSAGE value="atoi" />
     <MESSAGE value="trapping rain water." />
-    <option name="LAST_COMMIT_MESSAGE" value="trapping rain water." />
+    <MESSAGE value="Serialize Deserialize Binary Tree" />
+    <option name="LAST_COMMIT_MESSAGE" value="Serialize Deserialize Binary Tree" />
   </component>
 </project>
