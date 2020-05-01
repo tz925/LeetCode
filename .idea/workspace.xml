@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="988acfc8-3c44-4663-ba61-e118c1fbd5e2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/ArrayAndStrings/LongestSubstringWIthAtMostKDistinctCharacters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/DynamicProgramming/LongestIncreasingPathInAMatrix.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -324,7 +324,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588276120049</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="longest substring with at most k distinct char">
+      <created>1588279072575</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1588279072575</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -341,7 +348,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Unique number of occurence" />
     <MESSAGE value="remove element beats 100%" />
     <MESSAGE value="remove duplicated 2" />
     <MESSAGE value="First missing positive, because there can only be n positive integers we put them to right place, then loop thru, the first one not in place is the answer" />
@@ -366,6 +372,7 @@
     <MESSAGE value="atoi" />
     <MESSAGE value="trapping rain water." />
     <MESSAGE value="Serialize Deserialize Binary Tree" />
-    <option name="LAST_COMMIT_MESSAGE" value="Serialize Deserialize Binary Tree" />
+    <MESSAGE value="longest substring with at most k distinct char" />
+    <option name="LAST_COMMIT_MESSAGE" value="longest substring with at most k distinct char" />
   </component>
 </project>
