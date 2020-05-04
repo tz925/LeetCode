@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="988acfc8-3c44-4663-ba61-e118c1fbd5e2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/ArrayAndStrings/SmallerAfterSelf.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Thomaszhou/sample/ArrayAndStrings/SlidingWindowMaximum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/ArrayAndStrings/SlidingWindowMaximum.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -345,7 +345,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588469561827</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="sliding window maximum">
+      <created>1588482047290</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1588482047290</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -362,7 +369,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="First missing positive, because there can only be n positive integers we put them to right place, then loop thru, the first one not in place is the answer" />
     <MESSAGE value="Bull and cows first version" />
     <MESSAGE value="Bull and cows one pass second version" />
     <MESSAGE value="Rotting Orange / Walls and Gates / Zombie BFSBFSBFS" />
@@ -387,6 +393,7 @@
     <MESSAGE value="longest substring with at most k distinct char" />
     <MESSAGE value="longest increasing path in a matrix" />
     <MESSAGE value="median finder" />
-    <option name="LAST_COMMIT_MESSAGE" value="median finder" />
+    <MESSAGE value="sliding window maximum" />
+    <option name="LAST_COMMIT_MESSAGE" value="sliding window maximum" />
   </component>
 </project>
