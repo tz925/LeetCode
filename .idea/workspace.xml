@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="988acfc8-3c44-4663-ba61-e118c1fbd5e2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/Design/RangeSumQuery2DMutable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/ArrayAndStrings/LargestRectanglerArea.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -359,7 +359,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588610475206</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="range sum query 2D mutable with prefix method and BIT method">
+      <created>1588613569914</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1588613569914</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -376,7 +383,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Bull and cows one pass second version" />
     <MESSAGE value="Rotting Orange / Walls and Gates / Zombie BFSBFSBFS" />
     <MESSAGE value="some more questions" />
     <MESSAGE value="generalized k sum and others" />
@@ -401,6 +407,7 @@
     <MESSAGE value="median finder" />
     <MESSAGE value="sliding window maximum" />
     <MESSAGE value="smaller after self" />
-    <option name="LAST_COMMIT_MESSAGE" value="smaller after self" />
+    <MESSAGE value="range sum query 2D mutable with prefix method and BIT method" />
+    <option name="LAST_COMMIT_MESSAGE" value="range sum query 2D mutable with prefix method and BIT method" />
   </component>
 </project>
