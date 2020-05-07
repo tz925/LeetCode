@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="988acfc8-3c44-4663-ba61-e118c1fbd5e2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/ArrayAndStrings/MinimumWindowSubstring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/ArrayAndStrings/CitySkyline.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/Thomaszhou/sample/TreesAndGraphs/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/Thomaszhou/sample/TreesAndGraphs/TreeNode.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +52,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Prodigy">
+  <component name="RunManager" selected="Application.CitySkyline">
+    <configuration name="CitySkyline" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Thomaszhou.sample.ArrayAndStrings.CitySkyline" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Thomaszhou.sample.ArrayAndStrings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.Thomaszhou.sample.Main" />
       <module name="LeetCode" />
@@ -103,6 +117,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CitySkyline" />
         <item itemvalue="Application.Prodigy" />
         <item itemvalue="Application.ZombieAmazon" />
         <item itemvalue="Application.MinimumSumOfSubarrayAmazon" />
@@ -373,7 +388,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588701331336</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="minimum window substring">
+      <created>1588705883199</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1588705883199</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -390,7 +412,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="some more questions" />
     <MESSAGE value="generalized k sum and others" />
     <MESSAGE value="Flatten Nested List Iterator" />
     <MESSAGE value="meeting room" />
@@ -415,6 +436,28 @@
     <MESSAGE value="smaller after self" />
     <MESSAGE value="range sum query 2D mutable with prefix method and BIT method" />
     <MESSAGE value="largest rectangler area" />
-    <option name="LAST_COMMIT_MESSAGE" value="largest rectangler area" />
+    <MESSAGE value="minimum window substring" />
+    <option name="LAST_COMMIT_MESSAGE" value="minimum window substring" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Thomaszhou/sample/ArrayAndStrings/CitySkyline.java</url>
+          <line>89</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Thomaszhou/sample/ArrayAndStrings/CitySkyline.java</url>
+          <line>93</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Thomaszhou/sample/ArrayAndStrings/CitySkyline.java</url>
+          <line>98</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
