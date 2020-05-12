@@ -32,7 +32,7 @@ The values of words are distinct.
  */
 
 class TrieNode {
-    HashMap<Character, TrieNode> children = new HashMap<Character, TrieNode>();
+    HashMap<Character, TrieNode> children = new HashMap<>();
     String word = null;
     public TrieNode() {}
 }
