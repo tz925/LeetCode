@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="988acfc8-3c44-4663-ba61-e118c1fbd5e2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/TreesAndGraphs/AlienDictionary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Thomaszhou/sample/BackTracking/WordSearchII.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -401,7 +401,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588815015333</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="alien dictionary">
+      <created>1589131497524</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1589131497524</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -418,7 +425,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Flatten Nested List Iterator" />
     <MESSAGE value="meeting room" />
     <MESSAGE value="meeting room 2" />
     <MESSAGE value="find celebrity" />
@@ -443,7 +449,8 @@
     <MESSAGE value="largest rectangler area" />
     <MESSAGE value="minimum window substring" />
     <MESSAGE value="city skyline &amp; BT max path sum" />
-    <option name="LAST_COMMIT_MESSAGE" value="city skyline &amp; BT max path sum" />
+    <MESSAGE value="alien dictionary" />
+    <option name="LAST_COMMIT_MESSAGE" value="alien dictionary" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
